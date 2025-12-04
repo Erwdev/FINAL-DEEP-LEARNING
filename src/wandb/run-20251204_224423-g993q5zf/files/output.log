@@ -1,0 +1,252 @@
+
+⚠️  GNN will ONLY see SMILES → Graph structure
+   NO numerical features used in GNN training!
+
+🚀 Using device: cuda
+Training: 100%|██████████| 56/56 [00:02<00:00, 20.70it/s]
+
+Epoch 1/50
+Train Loss: 2010.282848 | Val Loss: 1483.872716 | LR: 1.00e-03
+[34m[1mwandb[0m: [33mWARNING[0m Linked 1 file into the W&B run directory (hardlinks); call wandb.save again to sync new files.
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.64it/s]
+
+Epoch 2/50
+Train Loss: 1018.384233 | Val Loss: 436.859355 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.58it/s]
+
+Epoch 3/50
+Train Loss: 264.545045 | Val Loss: 167.498074 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.70it/s]
+
+Epoch 4/50
+Train Loss: 169.373356 | Val Loss: 161.624220 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.47it/s]
+
+Epoch 5/50
+Train Loss: 164.144695 | Val Loss: 159.217510 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.17it/s]
+
+Epoch 6/50
+Train Loss: 161.806926 | Val Loss: 150.294075 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.02it/s]
+
+Epoch 7/50
+Train Loss: 165.309470 | Val Loss: 149.586231 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 28.66it/s]
+
+Epoch 8/50
+Train Loss: 160.402976 | Val Loss: 150.293825 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:02<00:00, 27.69it/s]
+
+Epoch 9/50
+Train Loss: 162.558452 | Val Loss: 152.672312 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 28.69it/s]
+
+Epoch 10/50
+Train Loss: 159.630440 | Val Loss: 151.305034 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.74it/s]
+
+Epoch 11/50
+Train Loss: 160.189610 | Val Loss: 150.785387 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 35.19it/s]
+
+Epoch 12/50
+Train Loss: 159.283937 | Val Loss: 151.805886 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 31.33it/s]
+
+Epoch 13/50
+Train Loss: 161.663680 | Val Loss: 151.637042 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:02<00:00, 21.97it/s]
+
+Epoch 14/50
+Train Loss: 159.255624 | Val Loss: 151.846316 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.44it/s]
+
+Epoch 15/50
+Train Loss: 161.531490 | Val Loss: 149.310470 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.52it/s]
+
+Epoch 16/50
+Train Loss: 160.705978 | Val Loss: 149.852016 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00,  9.80it/s]
+
+Epoch 17/50
+Train Loss: 158.287835 | Val Loss: 148.712649 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.41it/s]
+
+Epoch 18/50
+Train Loss: 160.278036 | Val Loss: 148.371875 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.48it/s]
+
+Epoch 19/50
+Train Loss: 157.649315 | Val Loss: 151.350523 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.29it/s]
+
+Epoch 20/50
+Train Loss: 156.436187 | Val Loss: 152.806468 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.49it/s]
+
+Epoch 21/50
+Train Loss: 155.537539 | Val Loss: 148.869514 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:02<00:00, 26.61it/s]
+
+Epoch 22/50
+Train Loss: 156.611928 | Val Loss: 148.634909 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 37.85it/s]
+
+Epoch 23/50
+Train Loss: 156.030564 | Val Loss: 148.538040 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 33.70it/s]
+
+Epoch 24/50
+Train Loss: 156.867763 | Val Loss: 148.887669 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:02<00:00, 27.56it/s]
+
+Epoch 25/50
+Train Loss: 157.130134 | Val Loss: 150.565421 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:06<00:00,  9.09it/s]
+
+Epoch 26/50
+Train Loss: 159.622523 | Val Loss: 149.312316 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.11it/s]
+
+Epoch 27/50
+Train Loss: 159.000046 | Val Loss: 148.271511 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.46it/s]
+
+Epoch 28/50
+Train Loss: 157.703271 | Val Loss: 147.836237 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.70it/s]
+
+Epoch 29/50
+Train Loss: 155.460425 | Val Loss: 148.928951 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.59it/s]
+
+Epoch 30/50
+Train Loss: 158.086954 | Val Loss: 149.547088 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.76it/s]
+
+Epoch 31/50
+Train Loss: 156.336939 | Val Loss: 148.437266 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.79it/s]
+
+Epoch 32/50
+Train Loss: 154.126972 | Val Loss: 149.143537 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.59it/s]
+
+Epoch 33/50
+Train Loss: 153.595116 | Val Loss: 149.671279 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.85it/s]
+
+Epoch 34/50
+Train Loss: 152.655421 | Val Loss: 147.427230 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:05<00:00,  9.87it/s]
+
+Epoch 35/50
+Train Loss: 161.226456 | Val Loss: 148.093033 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.81it/s]
+
+Epoch 36/50
+Train Loss: 156.768058 | Val Loss: 147.820822 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00,  9.35it/s]
+
+Epoch 37/50
+Train Loss: 154.602768 | Val Loss: 151.089102 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.09it/s]
+
+Epoch 38/50
+Train Loss: 157.995503 | Val Loss: 150.526504 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.51it/s]
+
+Epoch 39/50
+Train Loss: 153.802800 | Val Loss: 147.198745 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.99it/s]
+
+Epoch 40/50
+Train Loss: 158.993855 | Val Loss: 151.441898 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.57it/s]
+
+Epoch 41/50
+Train Loss: 155.138224 | Val Loss: 150.104900 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 33.55it/s]
+
+Epoch 42/50
+Train Loss: 154.642749 | Val Loss: 151.156962 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 34.35it/s]
+
+Epoch 43/50
+Train Loss: 154.051169 | Val Loss: 149.221561 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 28.56it/s]
+
+Epoch 44/50
+Train Loss: 153.921848 | Val Loss: 147.566071 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.40it/s]
+
+Epoch 45/50
+Train Loss: 154.235577 | Val Loss: 148.422630 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:06<00:00,  8.80it/s]
+
+Epoch 46/50
+Train Loss: 152.685198 | Val Loss: 150.719940 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:06<00:00,  8.34it/s]
+
+Epoch 47/50
+Train Loss: 155.029665 | Val Loss: 149.860298 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.36it/s]
+
+Epoch 48/50
+Train Loss: 153.677567 | Val Loss: 151.229930 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 11.02it/s]
+
+Epoch 49/50
+Train Loss: 154.219462 | Val Loss: 147.355556 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:08<00:00,  6.75it/s]
+
+Epoch 50/50
+Train Loss: 153.595519 | Val Loss: 149.074742 | LR: 1.00e-03
+
+🎉 Training complete! Best Val Loss: 147.19874518258231
+
+✅ GNN training complete!
+   GNN learned molecular representations from SMILES graph structure only
+
+============================================================
+🔄 PHASE 2: EXTRACT EMBEDDINGS FOR ALL MOLECULES
+============================================================
+📂 Loading cached graphs from ../data/cache/all_molecules_graphs.pkl...
+✅ Loaded 8881 cached graphs
+📊 Extracting embeddings for 8881 molecules...
+Extracting embeddings:   0%|          | 0/70 [00:00<?, ?it/s]
+[{"variableName": "X_combined", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "X_predict", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "X_train", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "X_train_combined", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "X_val", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "act", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}, {"variableName": "all_activations", "type": "list", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.list"}, {"variableName": "all_embeddings", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "atom_labels", "type": "list", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.list"}, {"variableName": "available_vals", "type": "series", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.series.Series"}, {"variableName": "best_predictors", "type": "list", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.list"}, {"variableName": "checklist", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}, {"variableName": "correlation_matrix", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.frame.DataFrame"}, {"variableName": "coverage", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}, {"variableName": "coverage_sorted", "type": "list", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.list"}, {"variableName": "cv_scores", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "data", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}, {"variableName": "dataset1_df", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.frame.DataFrame"}, {"variableName": "dataset2_df", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.frame.DataFrame"}, {"variableName": "dataset3_df", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.frame.DataFrame"}, {"variableName": "dataset4_df", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.frame.DataFrame"}, {"variableName": "df_augmented", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.frame.DataFrame"}, {"variableName": "df_imputed", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.frame.DataFrame"}, {"variableName": "df_with_targets", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.frame.DataFrame"}, {"variableName": "emb", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "embeddings_list", "type": "list", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.list"}, {"variableName": "feature_metadata", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}, {"variableName": "has_target", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "importances", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType":
+
+============================================================
+🔄 PHASE 2: EXTRACT EMBEDDINGS FOR ALL MOLECULES
+============================================================
+📂 Loading cached graphs from ../data/cache/all_molecules_graphs.pkl...
+✅ Loaded 8881 cached graphs
+📊 Extracting embeddings for 8881 molecules...
+Extracting embeddings:   0%|          | 0/70 [00:00<?, ?it/s]
+
+============================================================
+🧬 PHASE 1: TRAIN GNN ON SMILES ONLY (NO NUMERICAL FEATURES)
+============================================================
+📂 Loading cached graphs from ../data/cache/polymer_graphs_train.pkl...
+✅ Loaded 8881 cached graphs
+📊 Total molecules: 8881
+📚 Molecules with ≥1 target: 8881
+📦 Training batches: 56
+📦 Validation batches: 14

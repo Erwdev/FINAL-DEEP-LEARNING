@@ -1,0 +1,56 @@
+2025-12-04 22:24:27,804 INFO    MainThread:84488 [wandb_setup.py:_flush():80] Current SDK version is 0.23.1
+2025-12-04 22:24:27,804 INFO    MainThread:84488 [wandb_setup.py:_flush():80] Configure stats pid to 84488
+2025-12-04 22:24:27,804 INFO    MainThread:84488 [wandb_setup.py:_flush():80] Loading settings from C:\Users\Loq Gaming\.config\wandb\settings
+2025-12-04 22:24:27,805 INFO    MainThread:84488 [wandb_setup.py:_flush():80] Loading settings from e:\SEMESTER 5\DEEP LEARNING\FINAL\neurips-open-polymer-prediction-2025\src\wandb\settings
+2025-12-04 22:24:27,805 INFO    MainThread:84488 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-12-04 22:24:27,806 INFO    MainThread:84488 [wandb_init.py:setup_run_log_directory():714] Logging user logs to e:\SEMESTER 5\DEEP LEARNING\FINAL\neurips-open-polymer-prediction-2025\src\wandb\run-20251204_222427-58xc8p0r\logs\debug.log
+2025-12-04 22:24:27,820 INFO    MainThread:84488 [wandb_init.py:setup_run_log_directory():715] Logging internal logs to e:\SEMESTER 5\DEEP LEARNING\FINAL\neurips-open-polymer-prediction-2025\src\wandb\run-20251204_222427-58xc8p0r\logs\debug-internal.log
+2025-12-04 22:24:27,821 INFO    MainThread:84488 [wandb_init.py:monkeypatch_ipython():633] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002276F8BE8C0>
+2025-12-04 22:24:27,821 INFO    MainThread:84488 [wandb_init.py:init():841] calling init triggers
+2025-12-04 22:24:27,821 INFO    MainThread:84488 [wandb_init.py:init():846] wandb.init called with sweep_config: {}
+config: {'architecture': 'PolymerGNN', 'num_node_features': 5, 'hidden_dim': 64, 'embedding_dim': 10, 'num_outputs': 5, 'batch_size': 128, 'learning_rate': 0.001, 'num_epochs': 100, 'train_split': 0.8, 'dropout': 0.2, 'optimizer': 'Adam', 'scheduler': 'ReduceLROnPlateau', 'loss_function': 'masked_mse', 'target_columns': ['Tg', 'FFV', 'Tc', 'Density', 'Rg'], '_wandb': {}}
+2025-12-04 22:24:27,822 INFO    MainThread:84488 [wandb_init.py:init():889] starting backend
+2025-12-04 22:24:32,649 INFO    MainThread:84488 [wandb_init.py:init():892] sending inform_init request
+2025-12-04 22:24:32,781 INFO    MainThread:84488 [wandb_init.py:init():900] backend started and connected
+2025-12-04 22:24:32,797 INFO    MainThread:84488 [wandb_run.py:_label_probe_notebook():1334] probe notebook
+2025-12-04 22:24:32,827 INFO    MainThread:84488 [wandb_init.py:init():970] updated telemetry
+2025-12-04 22:24:33,917 INFO    MainThread:84488 [wandb_init.py:init():994] communicating run to backend with 90.0 second timeout
+2025-12-04 22:24:47,304 INFO    MainThread:84488 [wandb_init.py:init():1041] starting run threads in backend
+2025-12-04 22:24:49,812 INFO    MainThread:84488 [wandb_run.py:_console_start():2521] atexit reg
+2025-12-04 22:24:49,812 INFO    MainThread:84488 [wandb_run.py:_redirect():2369] redirect: wrap_raw
+2025-12-04 22:24:49,814 INFO    MainThread:84488 [wandb_run.py:_redirect():2438] Wrapping output streams.
+2025-12-04 22:24:49,814 INFO    MainThread:84488 [wandb_run.py:_redirect():2461] Redirects installed.
+2025-12-04 22:24:49,945 INFO    MainThread:84488 [wandb_init.py:init():1081] run started, returning control to user process
+2025-12-04 22:24:50,067 INFO    MainThread:84488 [wandb_watch.py:_watch():68] Watching
+2025-12-04 22:32:03,201 INFO    MainThread:84488 [wandb_init.py:_post_run_cell_hook():603] [no run ID] resuming backend
+2025-12-04 22:32:56,897 INFO    MainThread:84488 [jupyter.py:save_ipynb():359] [no run ID] not saving jupyter notebook
+2025-12-04 22:32:56,901 INFO    MainThread:84488 [wandb_init.py:_pre_run_cell_hook():592] [no run ID] pausing backend
+2025-12-04 22:33:04,299 INFO    MainThread:84488 [wandb_init.py:_post_run_cell_hook():603] [no run ID] resuming backend
+2025-12-04 22:35:18,499 INFO    MainThread:84488 [jupyter.py:save_ipynb():359] [no run ID] not saving jupyter notebook
+2025-12-04 22:35:18,506 INFO    MainThread:84488 [wandb_init.py:_pre_run_cell_hook():592] [no run ID] pausing backend
+2025-12-04 22:35:22,308 INFO    MainThread:84488 [wandb_init.py:_post_run_cell_hook():603] [no run ID] resuming backend
+2025-12-04 22:35:28,355 INFO    MainThread:84488 [jupyter.py:save_ipynb():359] [no run ID] not saving jupyter notebook
+2025-12-04 22:35:28,356 INFO    MainThread:84488 [wandb_init.py:_pre_run_cell_hook():592] [no run ID] pausing backend
+2025-12-04 22:35:30,866 INFO    MainThread:84488 [wandb_init.py:_post_run_cell_hook():603] [no run ID] resuming backend
+2025-12-04 22:35:39,647 INFO    MainThread:84488 [jupyter.py:save_ipynb():359] [no run ID] not saving jupyter notebook
+2025-12-04 22:35:39,648 INFO    MainThread:84488 [wandb_init.py:_pre_run_cell_hook():592] [no run ID] pausing backend
+2025-12-04 22:35:39,782 INFO    MainThread:84488 [wandb_init.py:_post_run_cell_hook():603] [no run ID] resuming backend
+2025-12-04 22:35:43,691 INFO    MainThread:84488 [jupyter.py:save_ipynb():359] [no run ID] not saving jupyter notebook
+2025-12-04 22:35:43,691 INFO    MainThread:84488 [wandb_init.py:_pre_run_cell_hook():592] [no run ID] pausing backend
+2025-12-04 22:35:46,075 INFO    MainThread:84488 [wandb_init.py:_post_run_cell_hook():603] [no run ID] resuming backend
+2025-12-04 22:35:48,168 INFO    MainThread:84488 [jupyter.py:save_ipynb():359] [no run ID] not saving jupyter notebook
+2025-12-04 22:35:48,168 INFO    MainThread:84488 [wandb_init.py:_pre_run_cell_hook():592] [no run ID] pausing backend
+2025-12-04 22:35:54,539 INFO    MainThread:84488 [wandb_init.py:_post_run_cell_hook():603] [no run ID] resuming backend
+2025-12-04 22:44:07,950 INFO    MainThread:84488 [jupyter.py:save_ipynb():359] [no run ID] not saving jupyter notebook
+2025-12-04 22:44:07,959 INFO    MainThread:84488 [wandb_init.py:_pre_run_cell_hook():592] [no run ID] pausing backend
+2025-12-04 22:44:08,023 INFO    MainThread:84488 [wandb_init.py:_post_run_cell_hook():603] [no run ID] resuming backend
+2025-12-04 22:44:15,365 INFO    MainThread:84488 [jupyter.py:save_ipynb():359] [no run ID] not saving jupyter notebook
+2025-12-04 22:44:15,365 INFO    MainThread:84488 [wandb_init.py:_pre_run_cell_hook():592] [no run ID] pausing backend
+2025-12-04 22:44:23,079 INFO    MainThread:84488 [wandb_run.py:_finish():2287] finishing run benedictuserwdev-universitas-gadjah-mada-library/polymer-gnn-prediction/58xc8p0r
+2025-12-04 22:44:25,682 INFO    MainThread:84488 [jupyter.py:save_history():435] not saving jupyter history
+2025-12-04 22:44:25,682 INFO    MainThread:84488 [jupyter.py:save_ipynb():359] not saving jupyter notebook
+2025-12-04 22:44:25,682 INFO    MainThread:84488 [wandb_init.py:_jupyter_teardown():618] cleaning up jupyter logic
+2025-12-04 22:44:25,682 INFO    MainThread:84488 [wandb_run.py:_atexit_cleanup():2486] got exitcode: 0
+2025-12-04 22:44:25,683 INFO    MainThread:84488 [wandb_run.py:_restore():2468] restore
+2025-12-04 22:44:25,683 INFO    MainThread:84488 [wandb_run.py:_restore():2474] restore done
+2025-12-04 22:44:27,350 INFO    MainThread:84488 [wandb_run.py:_footer_sync_info():3862] logging synced files

@@ -1,0 +1,411 @@
+
+⚠️  GNN will ONLY see SMILES → Graph structure
+   NO numerical features used in GNN training!
+
+🚀 Using device: cuda
+Training: 100%|██████████| 56/56 [00:02<00:00, 19.03it/s]
+
+Epoch 1/50
+Train Loss: 2006.802606 | Val Loss: 1428.744228 | LR: 1.00e-03
+[34m[1mwandb[0m: [33mWARNING[0m Linked 1 file into the W&B run directory (hardlinks); call wandb.save again to sync new files.
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 32.70it/s]
+
+Epoch 2/50
+Train Loss: 926.092424 | Val Loss: 627.734041 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 33.54it/s]
+
+Epoch 3/50
+Train Loss: 229.274458 | Val Loss: 142.795085 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.63it/s]
+
+Epoch 4/50
+Train Loss: 171.937058 | Val Loss: 136.509609 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.70it/s]
+
+Epoch 5/50
+Train Loss: 166.728012 | Val Loss: 136.763989 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:02<00:00, 25.14it/s]
+
+Epoch 6/50
+Train Loss: 163.612816 | Val Loss: 135.639926 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.61it/s]
+
+Epoch 7/50
+Train Loss: 165.314181 | Val Loss: 137.172460 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.96it/s]
+
+Epoch 8/50
+Train Loss: 162.076196 | Val Loss: 132.401634 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.75it/s]
+
+Epoch 9/50
+Train Loss: 162.069092 | Val Loss: 132.717620 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.11it/s]
+
+Epoch 10/50
+Train Loss: 161.854186 | Val Loss: 134.102830 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.19it/s]
+
+Epoch 11/50
+Train Loss: 162.702613 | Val Loss: 136.332085 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.04it/s]
+
+Epoch 12/50
+Train Loss: 162.919363 | Val Loss: 134.255460 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.73it/s]
+
+Epoch 13/50
+Train Loss: 166.203193 | Val Loss: 130.444838 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.69it/s]
+
+Epoch 14/50
+Train Loss: 159.756892 | Val Loss: 141.082052 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:02<00:00, 22.84it/s]
+
+Epoch 15/50
+Train Loss: 160.689530 | Val Loss: 134.605949 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:02<00:00, 19.89it/s]
+
+Epoch 16/50
+Train Loss: 160.817595 | Val Loss: 134.246257 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:02<00:00, 20.13it/s]
+
+Epoch 17/50
+Train Loss: 158.557777 | Val Loss: 134.134331 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 38.34it/s]
+
+Epoch 18/50
+Train Loss: 160.391388 | Val Loss: 131.444279 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 32.44it/s]
+
+Epoch 19/50
+Train Loss: 158.955305 | Val Loss: 133.401263 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.52it/s]
+
+Epoch 20/50
+Train Loss: 158.747784 | Val Loss: 134.121110 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.82it/s]
+
+Epoch 21/50
+Train Loss: 158.777815 | Val Loss: 132.292843 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 28.18it/s]
+
+Epoch 22/50
+Train Loss: 159.139459 | Val Loss: 132.843213 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.81it/s]
+
+Epoch 23/50
+Train Loss: 160.909399 | Val Loss: 133.905750 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.38it/s]
+
+Epoch 24/50
+Train Loss: 158.584677 | Val Loss: 133.050040 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.26it/s]
+
+Epoch 25/50
+Train Loss: 159.664408 | Val Loss: 131.446040 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:07<00:00,  7.18it/s]
+
+Epoch 26/50
+Train Loss: 158.959293 | Val Loss: 132.832933 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.23it/s]
+
+Epoch 27/50
+Train Loss: 155.877629 | Val Loss: 132.646270 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.67it/s]
+
+Epoch 28/50
+Train Loss: 157.779292 | Val Loss: 132.630677 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.16it/s]
+
+Epoch 29/50
+Train Loss: 157.874008 | Val Loss: 133.880147 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.87it/s]
+
+Epoch 30/50
+Train Loss: 157.505208 | Val Loss: 137.731496 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:06<00:00,  9.27it/s]
+
+Epoch 31/50
+Train Loss: 156.731221 | Val Loss: 132.317101 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.63it/s]
+
+Epoch 32/50
+Train Loss: 157.875486 | Val Loss: 130.946839 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 16.30it/s]
+
+Epoch 33/50
+Train Loss: 157.502285 | Val Loss: 134.300719 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 32.57it/s]
+
+Epoch 34/50
+Train Loss: 156.737161 | Val Loss: 134.679211 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 34.09it/s]
+
+Epoch 35/50
+Train Loss: 158.076292 | Val Loss: 133.852530 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 32.55it/s]
+
+Epoch 36/50
+Train Loss: 156.046370 | Val Loss: 132.708829 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.79it/s]
+
+Epoch 37/50
+Train Loss: 155.246721 | Val Loss: 132.888788 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.66it/s]
+
+Epoch 38/50
+Train Loss: 156.464333 | Val Loss: 134.461175 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.84it/s]
+
+Epoch 39/50
+Train Loss: 157.080063 | Val Loss: 133.814386 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.40it/s]
+
+Epoch 40/50
+Train Loss: 156.686717 | Val Loss: 134.078058 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 32.11it/s]
+
+Epoch 41/50
+Train Loss: 156.932861 | Val Loss: 133.862681 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.65it/s]
+
+Epoch 42/50
+Train Loss: 156.547031 | Val Loss: 133.364279 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 31.79it/s]
+
+Epoch 43/50
+Train Loss: 155.299059 | Val Loss: 133.095662 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 28.59it/s]
+
+Epoch 44/50
+Train Loss: 155.975336 | Val Loss: 132.974064 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.31it/s]
+
+Epoch 45/50
+Train Loss: 157.624136 | Val Loss: 131.985856 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:02<00:00, 24.18it/s]
+
+Epoch 46/50
+Train Loss: 155.240734 | Val Loss: 133.465595 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 35.32it/s]
+
+Epoch 47/50
+Train Loss: 153.503277 | Val Loss: 133.222152 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 35.50it/s]
+
+Epoch 48/50
+Train Loss: 154.652062 | Val Loss: 133.496044 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 32.69it/s]
+
+Epoch 49/50
+Train Loss: 153.434889 | Val Loss: 134.402202 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.80it/s]
+
+Epoch 50/50
+Train Loss: 153.178534 | Val Loss: 133.481850 | LR: 1.25e-04
+
+🎉 Training complete! Best Val Loss: 130.44483784266882
+
+✅ GNN training complete!
+   GNN learned molecular representations from SMILES graph structure only
+
+============================================================
+🔄 PHASE 2: EXTRACT EMBEDDINGS FOR ALL MOLECULES
+============================================================
+📂 Loading cached graphs from ../data/cache/all_molecules_graphs.pkl...
+✅ Loaded 8881 cached graphs
+📊 Extracting embeddings for 8881 molecules...
+Extracting embeddings: 100%|██████████| 70/70 [00:01<00:00, 66.89it/s]
+✅ Extracted embeddings shape: (8881, 64)
+
+======================================================================
+🔗 PHASE 3: PREPARE TARGETS (NO IMPUTATION FOR FEATURES!)
+======================================================================
+
+📊 Computing target imputation statistics:
+
+  Tg:
+    Available:  8881 (100.0%)
+    Missing:       0 (  0.0%)
+    Mean:         99.693 ← IMPUTE VALUE
+
+  FFV:
+    Available:  7892 ( 88.9%)
+    Missing:     989 ( 11.1%)
+    Mean:          0.367 ← IMPUTE VALUE
+
+  Tc:
+    Available:  8881 (100.0%)
+    Missing:       0 (  0.0%)
+    Mean:          0.226 ← IMPUTE VALUE
+
+  Density:
+    Available:  8881 (100.0%)
+    Missing:       0 (  0.0%)
+    Mean:          1.040 ← IMPUTE VALUE
+
+  Rg:
+    Available:  8881 (100.0%)
+    Missing:       0 (  0.0%)
+    Mean:         15.741 ← IMPUTE VALUE
+
+📊 Feature matrix:
+   GNN embeddings:       (8881, 64) (dims 0-9)
+   NO numerical features (avoiding data leakage!)
+✅ No NaN values in features
+
+✅ Target shape: (8881, 5)
+✅ Mask shape: (8881, 5)
+
+📊 Target availability:
+   Tg        :   8881 /   8881 (100.0%)
+   FFV       :   7892 /   8881 ( 88.9%)
+   Tc        :   8881 /   8881 (100.0%)
+   Density   :   8881 /   8881 (100.0%)
+   Rg        :   8881 /   8881 (100.0%)
+
+============================================================
+🌳 PHASE 4: TRAIN XGBOOST ON GNN EMBEDDINGS
+============================================================
+📊 Training data selection:
+   Total molecules:         8881
+   With ≥1 target:          8881
+   Without targets:         0
+
+📦 Data split:
+   Train set: 7104 samples
+   Val set:   1777 samples
+
+🔧 Imputing missing targets for XGBoost training...
+   FFV       : Imputed 796 train targets with mean=0.367
+
+✅ All NaN targets filled for training
+
+🌳 Training XGBoost on GNN embeddings...
+   Input features: 64D GNN embeddings
+   Targets: 5 properties (mean-imputed)
+✅ XGBoost training complete!
+
+======================================================================
+📊 XGBOOST PERFORMANCE (Evaluated on REAL targets only)
+======================================================================
+Tg         | RMSE:  26.5056 | MAE:   8.7737 | R²:  0.0474 | Samples:  1777
+FFV        | RMSE:   0.0180 | MAE:   0.0124 | R²:  0.5704 | Samples:  1584
+Tc         | RMSE:   0.0437 | MAE:   0.0333 | R²:  0.2187 | Samples:  1777
+Density    | RMSE:   0.0757 | MAE:   0.0581 | R²:  0.3122 | Samples:  1777
+Rg         | RMSE:   2.1304 | MAE:   1.6973 | R²:  0.0871 | Samples:  1777
+======================================================================
+
+============================================================
+💾 PHASE 5: SAVE RESULTS
+============================================================
+✅ Saved:
+   - molecule_embeddings.npy       (10D embeddings only)
+   - xgboost_combined_model.pkl    (trained model)
+
+📊 Summary:
+   Total molecules:        8881
+   Embedding dimension:    10
+   Numerical features:     5
+   Combined features:      64
+   Molecules with targets: 8881
+
+============================================================
+📊 CREATING VISUALIZATIONS
+============================================================
+
+🎯 Overall wMAE Score: nan
+   Creating scatter plots...
+   Creating residual plots...
+   Creating training/validation loss curves...
+   Creating weight visualization...
+   Creating MAE comparison...
+   Creating error distribution...
+   Creating availability heatmap...
+   Creating performance summary...
+
+✅ Saved visualization to: ../data/evaluation_results.png
+
+======================================================================
+Per-Property Analysis:
+======================================================================
+Property   |      MAE |   Weight |     wMAE |   Freq |    Scale
+----------------------------------------------------------------------
+Tg         |   8.7737 |   0.0005 | 0.004594 |   1777 |    27.16
+FFV        |   0.0124 |   0.5494 | 0.006830 |   1584 |     0.03
+Tc         |   0.0333 |   0.2880 | 0.009587 |   1777 |     0.05
+Density    |   0.0581 |   0.1557 | 0.009044 |   1777 |     0.09
+Rg         |   1.6973 |   0.0064 | 0.010825 |   1777 |     2.23
+======================================================================
+
+📊 Visualization complete!
+
+======================================================================
+🧠 GNN MODEL ACTIVATION & EMBEDDING VISUALIZATION
+======================================================================
+
+============================================================
+🔧 1. SETUP: LOAD MODEL AND SELECT SAMPLES
+============================================================
+✅ Selected 7 valid molecules
+
+============================================================
+🎯 2. EXTRACT LAYER-BY-LAYER ACTIVATIONS
+============================================================
+Extracting activations...
+  ✓ Sample 0: 16 atoms
+  ✓ Sample 10: 10 atoms
+  ✓ Sample 50: 30 atoms
+  ✓ Sample 100: 42 atoms
+  ✓ Sample 200: 36 atoms
+  ✓ Sample 500: 67 atoms
+  ✓ Sample 1000: 35 atoms
+✅ Extracted activations for 7 molecules
+
+============================================================
+📊 3. VISUALIZE LAYER-BY-LAYER ACTIVATIONS
+============================================================
+✅ Saved: gnn_layer_activations.png
+
+============================================================
+🗺️ 4. EMBEDDING SPACE VISUALIZATION (t-SNE)
+============================================================
+Running t-SNE...
+Running PCA...
+
+============================================================
+📊 5. PLOT EMBEDDING SPACES
+============================================================
+✅ Saved: embedding_space_visualization.png
+
+============================================================
+🔥 6. ACTIVATION HEATMAP: ATOMS × LAYERS
+============================================================
+
+============================================================
+📊 7. COMPREHENSIVE ACTIVATION DASHBOARD
+============================================================
+✅ Saved: activation_dashboard.png
+
+======================================================================
+✅ GNN ACTIVATION & EMBEDDING VISUALIZATION COMPLETE!
+======================================================================
+
+📁 Generated Visualizations:
+   1. gnn_layer_activations.png     - Layer-by-layer activations
+   2. embedding_space_visualization.png - t-SNE & PCA of embeddings
+   3. activation_dashboard.png       - Comprehensive activation analysis
+
+🔬 Key Insights:
+   • Each GNN layer progressively refines atom representations
+   • Activations show which atoms are most influential
+   • Graph embeddings cluster by molecular properties
+   • Later layers show more abstract, task-specific features

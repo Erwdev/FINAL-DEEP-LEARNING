@@ -1,0 +1,639 @@
+
+⚠️  GNN will ONLY see SMILES → Graph structure
+   NO numerical features used in GNN training!
+
+🚀 Using device: cuda
+Training: 100%|██████████| 56/56 [00:16<00:00,  3.42it/s]
+
+Epoch 1/100
+Train Loss: 2194.815369 | Val Loss: 2105.322623 | LR: 1.00e-03
+[34m[1mwandb[0m: [33mWARNING[0m Linked 1 file into the W&B run directory (hardlinks); call wandb.save again to sync new files.
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:03<00:00, 15.74it/s]
+
+Epoch 2/100
+Train Loss: 1981.802508 | Val Loss: 1809.625907 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.09it/s]
+
+Epoch 3/100
+Train Loss: 1551.294981 | Val Loss: 1309.698338 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.39it/s]
+
+Epoch 4/100
+Train Loss: 1000.820533 | Val Loss: 770.194436 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.69it/s]
+
+Epoch 5/100
+Train Loss: 524.503892 | Val Loss: 353.578548 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:06<00:00,  8.59it/s]
+
+Epoch 6/100
+Train Loss: 259.631984 | Val Loss: 182.726800 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.33it/s]
+
+Epoch 7/100
+Train Loss: 175.109633 | Val Loss: 160.095258 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.11it/s]
+
+Epoch 8/100
+Train Loss: 166.945846 | Val Loss: 158.214569 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.76it/s]
+
+Epoch 9/100
+Train Loss: 164.106623 | Val Loss: 158.608927 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:03<00:00, 15.65it/s]
+
+Epoch 10/100
+Train Loss: 160.345634 | Val Loss: 160.460406 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:02<00:00, 18.91it/s]
+
+Epoch 11/100
+Train Loss: 162.436106 | Val Loss: 161.965257 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 11.07it/s]
+
+Epoch 12/100
+Train Loss: 161.850644 | Val Loss: 158.938866 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.01it/s]
+
+Epoch 13/100
+Train Loss: 160.954113 | Val Loss: 160.105569 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.13it/s]
+
+Epoch 14/100
+Train Loss: 161.842250 | Val Loss: 159.553312 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.50it/s]
+
+Epoch 15/100
+Train Loss: 166.199545 | Val Loss: 158.763419 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.49it/s]
+
+Epoch 16/100
+Train Loss: 161.241172 | Val Loss: 158.794855 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:10<00:00,  5.12it/s]
+
+Epoch 17/100
+Train Loss: 164.955049 | Val Loss: 157.986096 | LR: 1.00e-03
+💾 Saved new best model!
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.93it/s]
+
+Epoch 18/100
+Train Loss: 161.032017 | Val Loss: 159.307271 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.04it/s]
+
+Epoch 19/100
+Train Loss: 158.773871 | Val Loss: 161.151331 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.18it/s]
+
+Epoch 20/100
+Train Loss: 161.782658 | Val Loss: 161.637113 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.83it/s]
+
+Epoch 21/100
+Train Loss: 160.554808 | Val Loss: 159.218649 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.83it/s]
+
+Epoch 22/100
+Train Loss: 162.893053 | Val Loss: 160.201975 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.74it/s]
+
+Epoch 23/100
+Train Loss: 158.750738 | Val Loss: 159.458773 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.09it/s]
+
+Epoch 24/100
+Train Loss: 158.246399 | Val Loss: 160.062912 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.59it/s]
+
+Epoch 25/100
+Train Loss: 160.254958 | Val Loss: 160.260648 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:03<00:00, 18.56it/s]
+
+Epoch 26/100
+Train Loss: 159.972286 | Val Loss: 159.433855 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:02<00:00, 26.12it/s]
+
+Epoch 27/100
+Train Loss: 159.102318 | Val Loss: 159.382640 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:02<00:00, 26.33it/s]
+
+Epoch 28/100
+Train Loss: 158.642502 | Val Loss: 158.455491 | LR: 1.00e-03
+Training: 100%|██████████| 56/56 [00:02<00:00, 26.95it/s]
+
+Epoch 29/100
+Train Loss: 157.609648 | Val Loss: 159.043677 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 28.09it/s]
+
+Epoch 30/100
+Train Loss: 160.141856 | Val Loss: 159.150146 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:02<00:00, 25.36it/s]
+
+Epoch 31/100
+Train Loss: 160.931863 | Val Loss: 159.387832 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:02<00:00, 25.80it/s]
+
+Epoch 32/100
+Train Loss: 156.522698 | Val Loss: 158.453372 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.05it/s]
+
+Epoch 33/100
+Train Loss: 158.985857 | Val Loss: 159.753279 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:02<00:00, 27.27it/s]
+
+Epoch 34/100
+Train Loss: 155.814221 | Val Loss: 159.962724 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:02<00:00, 25.75it/s]
+
+Epoch 35/100
+Train Loss: 157.487148 | Val Loss: 158.415027 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 28.28it/s]
+
+Epoch 36/100
+Train Loss: 156.709425 | Val Loss: 160.160719 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:02<00:00, 26.72it/s]
+
+Epoch 37/100
+Train Loss: 155.664366 | Val Loss: 158.753293 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:02<00:00, 24.95it/s]
+
+Epoch 38/100
+Train Loss: 157.131480 | Val Loss: 159.345134 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:02<00:00, 24.12it/s]
+
+Epoch 39/100
+Train Loss: 156.838308 | Val Loss: 161.805562 | LR: 5.00e-04
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.40it/s]
+
+Epoch 40/100
+Train Loss: 159.098689 | Val Loss: 158.813963 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:02<00:00, 25.58it/s]
+
+Epoch 41/100
+Train Loss: 157.428244 | Val Loss: 159.479886 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:02<00:00, 26.71it/s]
+
+Epoch 42/100
+Train Loss: 158.458344 | Val Loss: 158.744430 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 17.91it/s]
+
+Epoch 43/100
+Train Loss: 154.541252 | Val Loss: 158.826820 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.05it/s]
+
+Epoch 44/100
+Train Loss: 157.496855 | Val Loss: 159.468391 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.29it/s]
+
+Epoch 45/100
+Train Loss: 154.160787 | Val Loss: 159.410322 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.46it/s]
+
+Epoch 46/100
+Train Loss: 156.954368 | Val Loss: 159.015650 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:04<00:00, 13.60it/s]
+
+Epoch 47/100
+Train Loss: 157.778471 | Val Loss: 158.868380 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.38it/s]
+
+Epoch 48/100
+Train Loss: 156.467630 | Val Loss: 159.446414 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.56it/s]
+
+Epoch 49/100
+Train Loss: 158.974638 | Val Loss: 158.814309 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:04<00:00, 13.99it/s]
+
+Epoch 50/100
+Train Loss: 154.846526 | Val Loss: 159.670316 | LR: 2.50e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.60it/s]
+
+Epoch 51/100
+Train Loss: 160.583566 | Val Loss: 159.045122 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.91it/s]
+
+Epoch 52/100
+Train Loss: 154.535599 | Val Loss: 159.209446 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.59it/s]
+
+Epoch 53/100
+Train Loss: 155.625655 | Val Loss: 158.971039 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.30it/s]
+
+Epoch 54/100
+Train Loss: 156.882668 | Val Loss: 159.114210 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.27it/s]
+
+Epoch 55/100
+Train Loss: 153.808775 | Val Loss: 159.084896 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.23it/s]
+
+Epoch 56/100
+Train Loss: 155.556733 | Val Loss: 158.991799 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.34it/s]
+
+Epoch 57/100
+Train Loss: 155.152521 | Val Loss: 159.144964 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.76it/s]
+
+Epoch 58/100
+Train Loss: 156.510534 | Val Loss: 159.212902 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.25it/s]
+
+Epoch 59/100
+Train Loss: 155.798198 | Val Loss: 159.746853 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:04<00:00, 13.35it/s]
+
+Epoch 60/100
+Train Loss: 158.815278 | Val Loss: 159.142209 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.49it/s]
+
+Epoch 61/100
+Train Loss: 157.328035 | Val Loss: 159.444483 | LR: 1.25e-04
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.71it/s]
+
+Epoch 62/100
+Train Loss: 156.030789 | Val Loss: 159.237306 | LR: 6.25e-05
+Training: 100%|██████████| 56/56 [00:03<00:00, 14.12it/s]
+
+Epoch 63/100
+Train Loss: 157.079704 | Val Loss: 159.304791 | LR: 6.25e-05
+Training: 100%|██████████| 56/56 [00:03<00:00, 18.14it/s]
+
+Epoch 64/100
+Train Loss: 155.418143 | Val Loss: 159.372207 | LR: 6.25e-05
+Training: 100%|██████████| 56/56 [00:02<00:00, 20.20it/s]
+
+Epoch 65/100
+Train Loss: 156.435625 | Val Loss: 159.318414 | LR: 6.25e-05
+Training: 100%|██████████| 56/56 [00:08<00:00,  6.69it/s]
+
+Epoch 66/100
+Train Loss: 154.522982 | Val Loss: 159.288533 | LR: 6.25e-05
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.24it/s]
+
+Epoch 67/100
+Train Loss: 154.812524 | Val Loss: 159.210586 | LR: 6.25e-05
+Training: 100%|██████████| 56/56 [00:02<00:00, 27.21it/s]
+
+Epoch 68/100
+Train Loss: 154.366280 | Val Loss: 159.155500 | LR: 6.25e-05
+Training: 100%|██████████| 56/56 [00:05<00:00, 10.99it/s]
+
+Epoch 69/100
+Train Loss: 156.245639 | Val Loss: 159.118912 | LR: 6.25e-05
+Training: 100%|██████████| 56/56 [00:03<00:00, 15.20it/s]
+
+Epoch 70/100
+Train Loss: 152.339091 | Val Loss: 159.115846 | LR: 6.25e-05
+Training: 100%|██████████| 56/56 [00:02<00:00, 27.19it/s]
+
+Epoch 71/100
+Train Loss: 155.367977 | Val Loss: 159.026222 | LR: 6.25e-05
+Training: 100%|██████████| 56/56 [00:02<00:00, 27.56it/s]
+
+Epoch 72/100
+Train Loss: 161.498505 | Val Loss: 159.132751 | LR: 6.25e-05
+Training: 100%|██████████| 56/56 [00:01<00:00, 28.83it/s]
+
+Epoch 73/100
+Train Loss: 154.175936 | Val Loss: 159.113684 | LR: 3.13e-05
+Training: 100%|██████████| 56/56 [00:02<00:00, 27.33it/s]
+
+Epoch 74/100
+Train Loss: 155.565411 | Val Loss: 158.963762 | LR: 3.13e-05
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.86it/s]
+
+Epoch 75/100
+Train Loss: 158.165026 | Val Loss: 159.016554 | LR: 3.13e-05
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.09it/s]
+
+Epoch 76/100
+Train Loss: 157.649897 | Val Loss: 158.958051 | LR: 3.13e-05
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.03it/s]
+
+Epoch 77/100
+Train Loss: 152.980807 | Val Loss: 159.070102 | LR: 3.13e-05
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.84it/s]
+
+Epoch 78/100
+Train Loss: 157.720355 | Val Loss: 159.185460 | LR: 3.13e-05
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.49it/s]
+
+Epoch 79/100
+Train Loss: 156.017298 | Val Loss: 159.174692 | LR: 3.13e-05
+Training: 100%|██████████| 56/56 [00:04<00:00, 11.70it/s]
+
+Epoch 80/100
+Train Loss: 154.717376 | Val Loss: 159.031793 | LR: 3.13e-05
+Training: 100%|██████████| 56/56 [00:04<00:00, 12.79it/s]
+
+Epoch 81/100
+Train Loss: 155.712595 | Val Loss: 159.168488 | LR: 3.13e-05
+Training: 100%|██████████| 56/56 [00:06<00:00,  8.11it/s]
+
+Epoch 82/100
+Train Loss: 154.671408 | Val Loss: 158.973384 | LR: 3.13e-05
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.38it/s]
+
+Epoch 83/100
+Train Loss: 156.446414 | Val Loss: 159.325775 | LR: 3.13e-05
+Training: 100%|██████████| 56/56 [00:01<00:00, 28.89it/s]
+
+Epoch 84/100
+Train Loss: 154.902031 | Val Loss: 159.161207 | LR: 1.56e-05
+Training: 100%|██████████| 56/56 [00:01<00:00, 29.29it/s]
+
+Epoch 85/100
+Train Loss: 156.397781 | Val Loss: 159.229436 | LR: 1.56e-05
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.78it/s]
+
+Epoch 86/100
+Train Loss: 157.297132 | Val Loss: 159.252642 | LR: 1.56e-05
+Training: 100%|██████████| 56/56 [00:02<00:00, 27.30it/s]
+
+Epoch 87/100
+Train Loss: 157.079395 | Val Loss: 159.109297 | LR: 1.56e-05
+Training: 100%|██████████| 56/56 [00:01<00:00, 30.34it/s]
+
+Epoch 88/100
+Train Loss: 157.686942 | Val Loss: 159.257798 | LR: 1.56e-05
+Training: 100%|██████████| 56/56 [00:02<00:00, 26.25it/s]
+
+Epoch 89/100
+Train Loss: 157.776807 | Val Loss: 159.146088 | LR: 1.56e-05
+Training: 100%|██████████| 56/56 [00:02<00:00, 23.33it/s]
+
+Epoch 90/100
+Train Loss: 158.219163 | Val Loss: 159.172987 | LR: 1.56e-05
+Training: 100%|██████████| 56/56 [00:02<00:00, 27.93it/s]
+
+Epoch 91/100
+Train Loss: 153.626232 | Val Loss: 159.266676 | LR: 1.56e-05
+Training: 100%|██████████| 56/56 [00:02<00:00, 27.34it/s]
+
+Epoch 92/100
+Train Loss: 155.034723 | Val Loss: 159.197369 | LR: 1.56e-05
+Training: 100%|██████████| 56/56 [00:02<00:00, 27.61it/s]
+
+Epoch 93/100
+Train Loss: 156.450164 | Val Loss: 159.171648 | LR: 1.56e-05
+Training: 100%|██████████| 56/56 [00:01<00:00, 28.85it/s]
+
+Epoch 94/100
+Train Loss: 154.657611 | Val Loss: 159.119067 | LR: 1.56e-05
+Training: 100%|██████████| 56/56 [00:01<00:00, 28.20it/s]
+
+Epoch 95/100
+Train Loss: 155.010570 | Val Loss: 159.026318 | LR: 7.81e-06
+Training: 100%|██████████| 56/56 [00:02<00:00, 23.49it/s]
+
+Epoch 96/100
+Train Loss: 155.545738 | Val Loss: 159.187135 | LR: 7.81e-06
+Training: 100%|██████████| 56/56 [00:02<00:00, 26.50it/s]
+
+Epoch 97/100
+Train Loss: 153.987777 | Val Loss: 159.033251 | LR: 7.81e-06
+Training: 100%|██████████| 56/56 [00:02<00:00, 21.39it/s]
+
+Epoch 98/100
+Train Loss: 157.524715 | Val Loss: 159.251086 | LR: 7.81e-06
+Training: 100%|██████████| 56/56 [00:02<00:00, 26.60it/s]
+
+Epoch 99/100
+Train Loss: 153.741800 | Val Loss: 159.212394 | LR: 7.81e-06
+Training: 100%|██████████| 56/56 [00:02<00:00, 27.13it/s]
+
+Epoch 100/100
+Train Loss: 156.070158 | Val Loss: 159.236134 | LR: 7.81e-06
+
+🎉 Training complete! Best Val Loss: 157.98609624590193
+
+✅ GNN training complete!
+   GNN learned molecular representations from SMILES graph structure only
+
+============================================================
+🔄 PHASE 2: EXTRACT EMBEDDINGS FOR ALL MOLECULES
+============================================================
+📂 Loading cached graphs from ../data/cache/all_molecules_graphs.pkl...
+✅ Loaded 8881 cached graphs
+📊 Extracting embeddings for 8881 molecules...
+Extracting embeddings: 100%|██████████| 70/70 [00:01<00:00, 61.34it/s]
+✅ Extracted embeddings shape: (8881, 10)
+
+======================================================================
+🔗 PHASE 3: PREPARE TARGETS (NO IMPUTATION FOR FEATURES!)
+======================================================================
+
+📊 Computing target imputation statistics:
+
+  Tg:
+    Available:  8881 (100.0%)
+    Missing:       0 (  0.0%)
+    Mean:         99.693 ← IMPUTE VALUE
+
+  FFV:
+    Available:  7892 ( 88.9%)
+    Missing:     989 ( 11.1%)
+    Mean:          0.367 ← IMPUTE VALUE
+
+  Tc:
+    Available:  8881 (100.0%)
+    Missing:       0 (  0.0%)
+    Mean:          0.226 ← IMPUTE VALUE
+
+  Density:
+    Available:  8881 (100.0%)
+    Missing:       0 (  0.0%)
+    Mean:          1.040 ← IMPUTE VALUE
+
+  Rg:
+    Available:  8881 (100.0%)
+    Missing:       0 (  0.0%)
+    Mean:         15.741 ← IMPUTE VALUE
+
+📊 Feature matrix:
+   GNN embeddings:       (8881, 10) (dims 0-9)
+   NO numerical features (avoiding data leakage!)
+✅ No NaN values in features
+
+✅ Target shape: (8881, 5)
+✅ Mask shape: (8881, 5)
+
+📊 Target availability:
+   Tg        :   8881 /   8881 (100.0%)
+   FFV       :   7892 /   8881 ( 88.9%)
+   Tc        :   8881 /   8881 (100.0%)
+   Density   :   8881 /   8881 (100.0%)
+   Rg        :   8881 /   8881 (100.0%)
+
+============================================================
+🌳 PHASE 4: TRAIN XGBOOST ON GNN EMBEDDINGS
+============================================================
+📊 Training data selection:
+   Total molecules:         8881
+   With ≥1 target:          8881
+   Without targets:         0
+
+📦 Data split:
+   Train set: 7104 samples
+   Val set:   1777 samples
+
+🔧 Imputing missing targets for XGBoost training...
+   FFV       : Imputed 796 train targets with mean=0.367
+
+✅ All NaN targets filled for training
+
+🌳 Training XGBoost on GNN embeddings...
+   Input features: 10D GNN embeddings
+   Targets: 5 properties (mean-imputed)
+✅ XGBoost training complete!
+
+======================================================================
+📊 XGBOOST PERFORMANCE (Evaluated on REAL targets only)
+======================================================================
+Tg         | RMSE:  26.5827 | MAE:   8.8807 | R²:  0.0419 | Samples:  1777
+FFV        | RMSE:   0.0212 | MAE:   0.0148 | R²:  0.4044 | Samples:  1584
+Tc         | RMSE:   0.0451 | MAE:   0.0345 | R²:  0.1652 | Samples:  1777
+Density    | RMSE:   0.0819 | MAE:   0.0631 | R²:  0.1953 | Samples:  1777
+Rg         | RMSE:   2.1667 | MAE:   1.7391 | R²:  0.0558 | Samples:  1777
+======================================================================
+
+======================================================================
+🔗 PHASE 3: PREPARE TARGETS (NO IMPUTATION FOR FEATURES!)
+======================================================================
+
+📊 Computing target imputation statistics:
+
+  Tg:
+    Available:  8881 (100.0%)
+    Missing:       0 (  0.0%)
+    Mean:         99.693 ← IMPUTE VALUE
+
+  FFV:
+    Available:  7892 ( 88.9%)
+    Missing:     989 ( 11.1%)
+    Mean:          0.367 ← IMPUTE VALUE
+
+  Tc:
+    Available:  8881 (100.0%)
+    Missing:       0 (  0.0%)
+    Mean:          0.226 ← IMPUTE VALUE
+
+  Density:
+    Available:  8881 (100.0%)
+    Missing:       0 (  0.0%)
+    Mean:          1.040 ← IMPUTE VALUE
+
+  Rg:
+    Available:  8881 (100.0%)
+    Missing:       0 (  0.0%)
+    Mean:         15.741 ← IMPUTE VALUE
+
+📊 Feature matrix:
+   GNN embeddings:       (8881, 10) (dims 0-9)
+   NO numerical features (avoiding data leakage!)
+✅ No NaN values in features
+
+✅ Target shape: (8881, 5)
+✅ Mask shape: (8881, 5)
+
+📊 Target availability:
+   Tg        :   8881 /   8881 (100.0%)
+   FFV       :   7892 /   8881 ( 88.9%)
+   Tc        :   8881 /   8881 (100.0%)
+   Density   :   8881 /   8881 (100.0%)
+   Rg        :   8881 /   8881 (100.0%)
+
+============================================================
+🌳 PHASE 4: TRAIN XGBOOST ON GNN EMBEDDINGS
+============================================================
+📊 Training data selection:
+   Total molecules:         8881
+   With ≥1 target:          8881
+   Without targets:         0
+
+📦 Data split:
+   Train set: 7104 samples
+   Val set:   1777 samples
+
+🔧 Imputing missing targets for XGBoost training...
+   FFV       : Imputed 796 train targets with mean=0.367
+
+✅ All NaN targets filled for training
+
+🌳 Training XGBoost on GNN embeddings...
+   Input features: 10D GNN embeddings
+   Targets: 5 properties (mean-imputed)
+✅ XGBoost training complete!
+
+======================================================================
+📊 XGBOOST PERFORMANCE (Evaluated on REAL targets only)
+======================================================================
+Tg         | RMSE:  26.5827 | MAE:   8.8807 | R²:  0.0419 | Samples:  1777
+FFV        | RMSE:   0.0212 | MAE:   0.0148 | R²:  0.4044 | Samples:  1584
+Tc         | RMSE:   0.0451 | MAE:   0.0345 | R²:  0.1652 | Samples:  1777
+Density    | RMSE:   0.0819 | MAE:   0.0631 | R²:  0.1953 | Samples:  1777
+Rg         | RMSE:   2.1667 | MAE:   1.7391 | R²:  0.0558 | Samples:  1777
+======================================================================
+
+============================================================
+💾 PHASE 5: SAVE RESULTS
+============================================================
+✅ Saved:
+   - molecule_embeddings.npy       (10D embeddings only)
+   - xgboost_combined_model.pkl    (trained model)
+
+📊 Summary:
+   Total molecules:        8881
+   Embedding dimension:    10
+   Numerical features:     5
+   Combined features:      10
+   Molecules with targets: 8881
+
+============================================================
+📊 CREATING VISUALIZATIONS
+============================================================
+
+🎯 Overall wMAE Score: nan
+   Creating scatter plots...
+   Creating residual plots...
+   Creating training/validation loss curves...
+   Creating weight visualization...
+   Creating MAE comparison...
+   Creating error distribution...
+   Creating availability heatmap...
+   Creating performance summary...
+
+✅ Saved visualization to: ../data/evaluation_results.png
+
+======================================================================
+Per-Property Analysis:
+======================================================================
+Property   |      MAE |   Weight |     wMAE |   Freq |    Scale
+----------------------------------------------------------------------
+Tg         |   8.8807 |   0.0005 | 0.004650 |   1777 |    27.16
+FFV        |   0.0148 |   0.5494 | 0.008117 |   1584 |     0.03
+Tc         |   0.0345 |   0.2880 | 0.009935 |   1777 |     0.05
+Density    |   0.0631 |   0.1557 | 0.009832 |   1777 |     0.09
+Rg         |   1.7391 |   0.0064 | 0.011092 |   1777 |     2.23
+======================================================================
+
+📊 Visualization complete!
+
+============================================================
+🧬 PHASE 1: TRAIN GNN ON SMILES ONLY (NO NUMERICAL FEATURES)
+============================================================
+📂 Loading cached graphs from ../data/cache/polymer_graphs_train.pkl...
+✅ Loaded 8881 cached graphs
+📊 Total molecules: 8881
+📚 Molecules with ≥1 target: 8881
+📦 Training batches: 56
+📦 Validation batches: 14
